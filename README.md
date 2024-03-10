@@ -1,7 +1,4 @@
-# 18-PayTm-Clone
-It is part of the Full Stack Javascript Bootcamp being taught at ineuron.ai by Hitesh Choudhary Sir.
-
-
+# PayTm-Clone
 
 ![TailwindCSS](https://img.shields.io/badge/Project-TailwindCSS-orange)
 
